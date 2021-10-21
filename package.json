@@ -1,0 +1,9 @@
+{
+  "name": "javascript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@lion/button": "^0.3.20",
+    "lit-element": "^2.2.1"
+  }
+}
